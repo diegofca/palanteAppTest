@@ -1,6 +1,6 @@
-# testapp
+# Palante testapp
 
-A new Flutter application.
+Aplicación en Flutter
 
 ## Getting Started
 
