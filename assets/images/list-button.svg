@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="120" viewBox="0 0 224 120">
+    <defs>
+        <filter id="grg03hu9qa" width="171.9%" height="452.3%" x="-36%" y="-176.2%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="17.811"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-151 -329) translate(193 364)">
+                <rect width="148.545" height="30.329" y="10.58" fill="#000" filter="url(#grg03hu9qa)" opacity=".4" rx="15.165"/>
+                <rect width="148.545" height="37.382" fill="#FFF" rx="18.691"/>
+                <text fill="#004FFC" font-family="Asap-Bold, Asap" font-size="16" font-weight="bold" letter-spacing=".696">
+                    <tspan x="31.711" y="24.629">Otorgantes</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

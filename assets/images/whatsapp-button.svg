@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114" height="89" viewBox="0 0 114 89">
+    <defs>
+        <linearGradient id="rfbo523dmb" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#20B038"/>
+            <stop offset="100%" stop-color="#60D66A"/>
+        </linearGradient>
+        <linearGradient id="nexdsnfp6c" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#F9F9F9"/>
+            <stop offset="100%" stop-color="#FFF"/>
+        </linearGradient>
+        <filter id="7pevo2m0sa" width="123.2%" height="123.2%" x="-11.6%" y="-11.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <path stroke="#FFF" stroke-linecap="square" stroke-width=".6" d="M113.015 87.85L1.276 87.85" transform="translate(-33 -334) translate(33 334)"/>
+                <g filter="url(#7pevo2m0sa)" transform="translate(-33 -334) translate(33 334) translate(29)">
+                    <g>
+                        <g fill="url(#rfbo523dmb)" transform="matrix(1 0 0 -1 1.142 55.034)">
+                            <g>
+                                <g>
+                                    <g>
+                                        <path d="M.226 26.556C.224 21.98 1.425 17.51 3.707 13.573L.007.115l13.824 3.61C17.639 1.659 21.927.568 26.29.566h.012c14.37 0 26.069 11.651 26.075 25.97.002 6.94-2.707 13.465-7.631 18.373-4.923 4.91-11.47 7.614-18.445 7.617-14.373 0-26.07-11.65-26.076-25.97M26.303.566"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g fill="url(#nexdsnfp6c)" transform="matrix(1 0 0 -1 .106 55.938)">
+                            <g>
+                                <g>
+                                    <g>
+                                        <path d="M.33 27.468c0-4.741 1.243-9.37 3.606-13.45L.104.079l14.32 3.741C18.367 1.676 22.81.546 27.33.544h.011c14.887 0 27.005 12.07 27.011 26.902.003 7.189-2.804 13.948-7.904 19.033-5.1 5.085-11.881 7.886-19.107 7.89C12.453 54.368.337 42.3.331 27.467zm8.528-12.747l-.534.846c-2.248 3.56-3.434 7.674-3.433 11.9.005 12.328 10.076 22.357 22.46 22.357 5.997-.002 11.633-2.33 15.872-6.557 4.239-4.226 6.571-9.844 6.57-15.819-.006-12.329-10.077-22.36-22.45-22.36h-.01c-4.029.002-7.98 1.08-11.426 3.117l-.82.484L6.589 6.47l2.27 8.251zM27.342.544zm0 0z"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <path fill="#FFF" d="M20.697 40.215c-.505 1.12-1.037 1.142-1.518 1.161-.394.017-.844.016-1.294.016-.45 0-1.181-.168-1.8-.841-.618-.673-2.362-2.3-2.362-5.608s2.419-6.505 2.756-6.954c.337-.448 4.669-7.454 11.529-10.15 5.701-2.239 6.861-1.793 8.099-1.681 1.237.112 3.993 1.626 4.555 3.196.563 1.57.563 2.915.394 3.197-.169.28-.619.448-1.294.784-.675.337-3.993 1.964-4.611 2.188-.62.224-1.07.336-1.52-.337-.45-.673-1.742-2.187-2.136-2.635-.393-.45-.787-.506-1.462-.17-.675.338-2.849 1.047-5.427 3.338-2.007 1.782-3.361 3.983-3.755 4.656-.394.672-.042 1.037.296 1.372.303.301.675.785 1.013 1.177.337.393.45.673.674 1.122.225.449.113.841-.056 1.178-.169.336-1.48 3.661-2.08 4.99" transform="matrix(1 0 0 -1 0 57.438)"/>
+                </g>
+                <text fill="#FFF" font-family="Asap-Bold, Asap" font-size="16" font-weight="bold" transform="translate(-33 -334) translate(33 334)">
+                    <tspan x="0" y="82">Solicitar Crédito</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

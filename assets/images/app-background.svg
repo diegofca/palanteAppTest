@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="938" viewBox="0 0 375 938">
+    <defs>
+        <radialGradient id="1a40uc8x9a" cx="86.446%" cy="12.542%" r="177.054%" fx="86.446%" fy="12.542%" gradientTransform="matrix(-.02365 .39968 -.51237 -.00485 .95 -.22)">
+            <stop offset="0%" stop-color="#0080DE"/>
+            <stop offset="100%" stop-color="#004AFF"/>
+        </radialGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill="url(#1a40uc8x9a)">
+            <path d="M0 0H375V938H0z"/>
+        </g>
+    </g>
+</svg>
